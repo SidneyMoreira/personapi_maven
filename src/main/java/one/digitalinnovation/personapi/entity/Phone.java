@@ -1,4 +1,4 @@
-package one.digitalinnovation.personapi.entities;
+package one.digitalinnovation.personapi.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -29,6 +29,8 @@ public class Phone {
     @Column(nullable = false)
     private PhoneType type;
 
-    @Column(nullable = false, unique = true)
+    @Column(nullable = false)
     private String number;
+
+
 }
