@@ -1,5 +1,13 @@
 <h2>Digital Innovation: Expert class - Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
 
+<h3>Alterações Realizadas no Projeto</h3>
+
+Foram feitas as seguintes alterações no projeto:
+* **Versão Java upgrade para 15**
+* **Versão Spring Boot upgrade para 2.4.4**
+* **Versão MapStruct updrade para 1.4.2.Final**
+* **Adicionado a Dependecia para o hibernate-validator versão 7.0.1.Final**
+
 Nesta live coding vamos desenvolver um pequeno sistema para o gerenciamento de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 
 Durante a sessão, serão desenvolvidos e abordados os seguintes tópicos:
